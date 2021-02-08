@@ -5,11 +5,11 @@
 ![ret3](https://user-images.githubusercontent.com/29980448/107252752-ab185980-6a5b-11eb-9257-f2db71766919.jpg)
 
 
-- To predict which previously purchased products will be in a user’s next order.
+**~ To predict which previously purchased products will be in a user’s next order.**
 
-- The goal predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
+**~ The goal predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.**
 
-- For each user, 4 and 100 of their orders are given, with the sequence of products purchased in each order
+**~ For each user, 4 and 100 of their orders are given, with the sequence of products purchased in each order.**
 
 
 
