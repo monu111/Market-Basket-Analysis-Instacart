@@ -7,9 +7,9 @@
 
 **~To predict which previously purchased products will be in a user’s next order.**
 
-**~ The goal predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.**
+**~The goal predict which products will be in a user's next order. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.**
 
-**~ For each user, 4 and 100 of their orders are given, with the sequence of products purchased in each order.**
+**~For each user, 4 and 100 of their orders are given, with the sequence of products purchased in each order.**
 
 
 
