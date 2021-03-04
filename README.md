@@ -32,9 +32,9 @@
 
 **6. From the analysis, 0th day order were high in the day time & in the day time 2PM were high order.**
 
-**7. From the analysis, 1th day order were high in the morning time between 9 Am to 11 Am. **
+**7.From the analysis, 1th day order were high in the morning time between 9 Am to 11 Am.**
 
-**8. From the analysis, customer order once in every week day(see peak at 7.0) or once in month (peak at 30.0) & we could also see smaller peaks at 14, 21 and 28 days (weekly intervals). **
+**8. From the analysis, customer order once in every week day(see peak at 7.0) or once in month (peak at 30.0) & we could also see smaller peaks at 14, 21 and 28 days (weekly intervals).**
 
 **9. From the analysis, on an average 59% of the products in an order are re-ordered products.**
 
